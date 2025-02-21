@@ -7,6 +7,8 @@
 
 import Foundation
 import SwiftUI
+import Combine
+
 
 /// Navigator is the worker class for Coordinator, it handles navigation, push, pop etc.
 @MainActor public final class UIKitNavigator: Navigator, ObservableObject {
