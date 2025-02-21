@@ -18,7 +18,7 @@ import SwiftUI
 public struct Fonts: Sendable {
     
     init() {
-        UIFont.register(
+        /*UIFont.register(
             "OpenSans-Light.ttf",
             "OpenSans-Regular.ttf" ,
             "OpenSans-SemiBold.ttf" ,
@@ -27,7 +27,7 @@ public struct Fonts: Sendable {
             "OpenSans-Italic.ttf" ,
             "OpenSans-BoldItalic.ttf",
             "OpenSans-SemiBoldItalic.ttf"
-        )
+        )*/
     }
     
     // Title
